@@ -1,0 +1,20 @@
+{
+  "name": "level-github",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Default community health files for Level",
+  "license": "MIT",
+  "scripts": {
+    "test": "hallmark",
+    "hallmark": "hallmark --fix"
+  },
+  "devDependencies": {
+    "hallmark": "^0.1.0"
+  },
+  "repository": "Level/.github",
+  "homepage": "https://github.com/Level/.github",
+  "keywords": [
+    "level",
+    "github"
+  ]
+}
