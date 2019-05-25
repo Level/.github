@@ -2,8 +2,8 @@
   "name": "level-github",
   "version": "0.0.0",
   "private": true,
-  "description": "Default community health files for Level",
-  "license": "MIT",
+  "description": "Default community health files",
+  "license": "CC-BY-4.0",
   "scripts": {
     "test": "hallmark",
     "hallmark": "hallmark --fix"
